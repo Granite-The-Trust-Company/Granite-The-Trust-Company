@@ -11,19 +11,10 @@ layout: default
 
 ---
 
-## Solo is useful if...
+# The Trust Company
 
-services
+Stay tuned for more information
 
-## Usage
+---
 
-
-## Author
-
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
-
-![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
-
-### License
-
-[MIT License](http://chibicode.mit-license.org/)
+Copyright 2017 Granite, The Trust Company
