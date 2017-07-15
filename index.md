@@ -2,12 +2,12 @@
 layout: default
 ---
 
-![granite](http://i.cubeupload.com/02b8TO.png)
+![granite](http://i.cubeupload.com/n5ktz1.png)
 
 
 ---
 
-*Granite. Redefining trust on the blockchain.*
+### *Redefining trust on the blockchain.*
 
 ---
 
