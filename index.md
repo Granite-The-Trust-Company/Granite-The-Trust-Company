@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![granite](http://i.cubeupload.com/GIXwsT.png)
+![granite](http://i.cubeupload.com/02b8TO.png)
 
 
 ---
