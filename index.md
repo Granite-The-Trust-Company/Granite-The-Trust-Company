@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![granite](http://i.cubeupload.com/n5ktz1.png)
+![granite](http://i.cubeupload.com/0xhSUz.png)
 
 
 ---
@@ -13,8 +13,9 @@ layout: default
 
 # The Trust Company
 
-Stay tuned for more information
+A reimagineing of where trust should lie. 
 
+Stay tuned.
 ---
 
 Copyright 2017 Granite, The Trust Company
