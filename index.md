@@ -11,11 +11,10 @@ layout: default
 
 ---
 
-# The Trust Company
-
-A reimagineing of where trust should lie. 
+A reimagining of where trust should lie. 
 
 Stay tuned.
+
 ---
 
 Copyright 2017 Granite, The Trust Company
