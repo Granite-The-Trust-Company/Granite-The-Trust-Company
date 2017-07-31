@@ -7,14 +7,17 @@ layout: default
 
 ---
 
-### *Redefining trust on the blockchain.*
+### * Reimagining trust on the blockchain.*
 
 ---
 
-A reimagining of where trust should lie. 
+Redefining trust for a new age.
 
-Stay tuned.
+Developing Rock-solid infrastructure to enable new types of business and personal relationships.  
 
+Stay tuned for more information.  
+
+<br>
 ---
 
-Copyright 2017 Granite, The Trust Company
+Copyright 2017: Granite, The Trust Company
