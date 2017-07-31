@@ -7,7 +7,7 @@ layout: default
 
 ---
 
-### * Reimagining trust on the blockchain.*
+### *Reimagining trust on the blockchain.*
 
 ---
 
@@ -18,6 +18,7 @@ Developing Rock-solid infrastructure to enable new types of business and persona
 Stay tuned for more information.  
 
 <br>
+
 ---
 
 Copyright 2017: Granite, The Trust Company
